@@ -8,3 +8,6 @@ ver películas/series 🎬 y compartiendo buenos momentos con amigos 🍻
 
 Esta es mi cuenta de github en la cual iré subiendo mis repositorios con los poryectos y trabjos que voy realizando 🛠⚙️
 No dudes en seguirme si te gusta lo que hago y simpre que puedas dame consejos para mejorar 💪🏻💻
+
+### GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javichuuu5&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
